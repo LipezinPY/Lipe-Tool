@@ -27,9 +27,7 @@ while True:
 	
 	print(f'  ________________________________________')
 	print(f'                                         ')
-	print(f'    {C}[{G}01{C}]{R} PEGAR IP {C}{G}{C}{C}                   ')
-	print(f'    {C}[{G}02{C}]{R} CONSULTA NOME{C} {G}{C}                ')
-	print(f'    {C}[{G}03{C}]{R} CONSULTA NUMERO  {C}                  ')
+	print(f'    {C}[{G}01{C}]{R} TUNNAR ANDROID{C}{G}{C}{C}                   ')
 	print(f'                                         ')
 	print(f'   \\___________________________________________')
 	choice = input(f'\n\n\n{R}   >>>{C} ')
