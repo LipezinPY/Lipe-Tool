@@ -4,17 +4,12 @@
 ![](https://github.com/Spyware0/spy-menu/blob/main/m.png)
 Um pequeno menu com algumas opções!
 
-- OBS: caso execute o script pelo termux, recomendo que o instale pelo [F-Droid](https://F-Droid.org) por ser mais atualizado, evitando erros indesejáveis...
 
 ### Algumas de suas opções:
-- [x] Par ou Ímpar
-- [x] Jokenpô
-- [x] Bhaskara
-- [x] Mostrar meu ip
-- [x] Encurtar link 
-- [ ] Baixar mp3 e mp4 do YouTube
+- [x] Painel De Consultas 
+- [x] DDOS 
 
-<h2 align="center">Início 💻</h2>
+<h2 align="center">MENU</h2>
 
 ```shell script
 apt-get update && apt-get upgrade -y
