@@ -7,7 +7,7 @@ Um Script Cm Algumas Funções Como BRUTEFORCE, DDOS, E CONSULTAS !
 
 ### Algumas de suas opções:
 - [ ] Consultas {EM BREVE}
-- [x] DDOS 
+- [x] ACESSO REMOTO BY IP 
 - [ ] Bruteforce { Em Breve}
 
 <h2 align="center">Início📥</h2>
