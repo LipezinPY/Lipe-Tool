@@ -6,10 +6,11 @@ Um Script Cm Algumas Funções Como BRUTEFORCE, DDOS, E CONSULTAS !
 
 
 ### Algumas de suas opções:
-- [x] Painel De Consultas 
+- [] Consultas {EM BREVE}
 - [x] DDOS 
+- [] Bruteforce { Em Breve}
 
-<h2 align="center">MENU</h2>
+<h2 align="center">Início📥</h2>
 
 ```shell script
 apt-get update && apt-get upgrade -y
