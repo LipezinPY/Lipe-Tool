@@ -32,7 +32,7 @@ python3 lipe.py
 
 > ⚠️ Execute Os Comandos um de Cada Vez ⚠️
 
-Caso queira Falar Cmg , me chame no Discord lipezin#7561
+Caso queira Falar Cmg , me chame no [TELEGRAM](https://t.me/LIPEZIN7561)
 
 ***Até Breve ***
 
