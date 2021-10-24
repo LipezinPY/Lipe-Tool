@@ -6,9 +6,9 @@ Um Script Cm Algumas Funções Como BRUTEFORCE, DDOS, E CONSULTAS !
 
 
 ### Algumas de suas opções:
-- [] Consultas {EM BREVE}
+- [ ] Consultas {EM BREVE}
 - [x] DDOS 
-- [] Bruteforce { Em Breve}
+- [ ] Bruteforce { Em Breve}
 
 <h2 align="center">Início📥</h2>
 
