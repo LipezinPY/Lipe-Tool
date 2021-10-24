@@ -27,8 +27,7 @@ pip install requests
 ```shell script
 git clone https://github.com/LipezinPY/Lipe-Tool
 cd Lipe-Tool
-chmod +x lipe.py
-./lipe.py
+python3 lipe.py
 ```
 
 > ⚠️ Execute Os Comandos um de Cada Vez ⚠️
