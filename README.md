@@ -27,11 +27,9 @@ chmod +x menu.py
 ./menu.py
 ```
 
-> ⚠️ A execução do arquivo install.sh é importante para o funcionamento do menu⚠️
+> ⚠️ Recomendo Ter O Termux Atualizado⚠️
 
-> Depois das dependências instaladas, pode usar o menu a vontade!
-
-Caso queira entrar em contato, me chame no [Whatsapp](http://wa.me/559885267746)
+Caso queira Falar Cmg , me chame no [Discord] lipezin#7561
 
 ***Deixe sua estrela :)***
 
