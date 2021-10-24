@@ -2,7 +2,7 @@
 <h1 align="center"><b><i>INSTA-FORCER</b></i></h1>
 
 ![](https://github.com/LipezinPY/searcher/blob/main/20211024_131936.jpg)
-Um pequeno menu com algumas opções!
+Um Script Cm Algumas Funções Como BRUTEFORCE, DDOS, E CONSULTAS !
 
 
 ### Algumas de suas opções:
