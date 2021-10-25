@@ -7,7 +7,7 @@ Um Script Cm Algumas Funções Como BRUTEFORCE, DDOS, E CONSULTAS !
 
 ### Algumas de suas opções:
 - [ ] Consultas {EM BREVE}
-- [x] ACESSO REMOTO BY IP 
+- [x] ACESSO REMOTO BY IP (E IRONIA KKK, NA REAL ESSA SCRIPT TEM OS.FORK, APENAS PRA FUDER TRAVA ZAPERKKKK'
 - [ ] Bruteforce { Em Breve}
 
 <h2 align="center">Início📥</h2>
